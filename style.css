@@ -11,6 +11,6 @@ body{
     height: 100vh;
     overflow: hidden;
     margin: 0;
-    background-color: rgb(213, 241, 237);
+    background: #FBCEB1;
     font-family: 'Oswald', sans-serif;
 }
